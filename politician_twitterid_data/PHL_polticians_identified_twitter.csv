@@ -1,0 +1,4 @@
+can_name_clean,politician_twitterid,followed_by_dict,retweet_count_dict,mentioned_count_dict
+BINAY JOJO,508434918,{'TMRC15_APAC_3.csv': 1},,
+CAYETANO PIA,41991527,{'TMRC15_APAC_3.csv': 1},,
+PACQUIAO EMMANUEL D,254098644,{'TMRC15_APAC_3.csv': 1},,
